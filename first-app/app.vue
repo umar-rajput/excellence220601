@@ -3,9 +3,9 @@
     <!-- <NuxtWelcome /> -->
     <!-- <Navbar/> -->
     <NuxtLayout>
-      <p>Hello from Nuxt App</p>
+      <!-- <p>Hello from Nuxt App</p> -->
       <NuxtPage />
     </NuxtLayout>
-      <!-- <ffooter/> -->
+    <!-- <ffooter/> -->
   </div>
 </template>
