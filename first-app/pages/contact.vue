@@ -106,6 +106,10 @@
 </template>
 
 <script setup>
+useHead({
+  title: "Contact",
+});
+
 definePageMeta({
   layout: "custom",
 });

@@ -119,6 +119,10 @@
 </template>
 
 <script setup>
+useHead({
+  title: "About",
+});
+
 definePageMeta({
   layout: "custom",
 });
