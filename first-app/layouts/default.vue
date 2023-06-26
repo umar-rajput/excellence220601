@@ -1,15 +1,12 @@
 <template>
-    <div>
-      <Navbar/>
-      <slot/>
-      <ffooter />
-    </div>
-  </template>
+  <div class="bg-gray-900">
+    <Navbar />
+    <Hero />
+    <slot />
+    <ffooter />
+  </div>
+</template>
 
-<script>
-</script>
+<script></script>
 
-<style>
-
-</style>
-  
+<style></style>
